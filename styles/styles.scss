@@ -19,6 +19,7 @@ body {
             padding: 1vw;
             border-radius: 1rem;
             background-color: rgba($color: white, $alpha: 0.75);
+            font-size: calc(1vw + 1vh);
         }
         div.hidden {
             display: none;
